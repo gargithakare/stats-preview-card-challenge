@@ -1,0 +1,59 @@
+body {
+  background-color: #090B1A;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-top: 150px;
+}
+
+h1 {
+  color: white;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 7
+  00;
+}
+
+p{
+  color: #BFBFBF;
+  font-family: 'Inter', sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+
+}
+
+string {
+  color: #AA5CDB;
+
+}
+
+/* card */
+.container {
+  background-color: #1B1938;
+  padding-left: 50px;
+  padding-top: 60px;
+  padding-bottom: 50px;
+  padding-right: 250px;
+}
+
+/* stats table */
+
+.stats-table {
+  color: white;
+  font-family: 'Lexend Deca', sans-serif;
+  font-weight: 400;
+
+
+}
+
+.stat-name {
+color: #BFBFBF;
+font-family: 'Inter', sans-serif;
+font-weight: 400;
+font-size: 15px;
+letter-spacing: 2px;
+}
+
+/* image */
+
+.image-header-desktop {
+
+}
